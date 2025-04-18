@@ -11,10 +11,6 @@ body {
   padding: 92px 50px 96px 50px;
 }
 
-.header__menu {
-  
-}
-
 .header__links-list {
   display: flex;
   align-items: center;
@@ -218,7 +214,7 @@ article {
   line-height: 120%;
 }
 
-.card_type{
+.card_type {
   position: relative;
   background-repeat: no-repeat;
   background-position: center;
